@@ -1,4 +1,4 @@
-header, footer{
+header{
     background-color: black;
 }
 
@@ -11,10 +11,4 @@ header, footer{
 section{
     margin-top: 50px;
     margin-bottom: 50px;
-    height:300px;
-}
-
-footer{
-    height: 120px;
-    margin: 0px;
 }
